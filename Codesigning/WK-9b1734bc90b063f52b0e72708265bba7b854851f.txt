@@ -1,0 +1,28 @@
+Executable=/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp/Products/Debug-iphonesimulator/WatchOSapp.app/Watch/WatchOSapp WatchKit App.app/_WatchKitStub/WK
+Identifier=com.apple.WK
+Format=Mach-O universal (i386 x86_64 arm64)
+CodeDirectory v=20400 size=453 flags=0x0(none) hashes=9+2 location=embedded
+VersionPlatform=4
+VersionMin=131072
+VersionSDK=525056
+Hash type=sha256 size=32
+CandidateCDHash sha1=fc9ca1713407dd7e2f45f60ccd1d39b25c096035
+CandidateCDHashFull sha1=fc9ca1713407dd7e2f45f60ccd1d39b25c096035
+CandidateCDHash sha256=744db7bde4fca6b85b4158fdbca42b800e093381
+CandidateCDHashFull sha256=744db7bde4fca6b85b4158fdbca42b800e09338128d4fb6cdfc8152f209d9446
+Hash choices=sha1,sha256
+CMSDigest=d33e9b5fd4c4500390d0f381d544d3981c7b446530cc89655fb62fdc9de4cce9
+CMSDigestType=2
+Executable Segment base=0
+Executable Segment limit=16384
+Executable Segment flags=0x1
+Page size=4096
+CDHash=744db7bde4fca6b85b4158fdbca42b800e093381
+Signature size=4493
+Authority=Software Signing
+Authority=Apple Code Signing Certification Authority
+Authority=Apple Root CA
+Info.plist=not bound
+TeamIdentifier=not set
+Sealed Resources=none
+Internal requirements count=1 size=60

@@ -1,0 +1,253 @@
+/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp/Products/Debug-iphonesimulator/WatchOSapp.app/Watch/WatchOSapp WatchKit App.app/_WatchKitStub/WK:
+Load command 0
+      cmd LC_SEGMENT_64
+  cmdsize 72
+  segname __PAGEZERO
+   vmaddr 0x0000000000000000
+   vmsize 0x0000000100000000
+  fileoff 0
+ filesize 0
+  maxprot ---
+ initprot ---
+   nsects 0
+    flags (none)
+Load command 1
+      cmd LC_SEGMENT_64
+  cmdsize 232
+  segname __TEXT
+   vmaddr 0x0000000100000000
+   vmsize 0x0000000000004000
+  fileoff 0
+ filesize 16384
+  maxprot r-x
+ initprot r-x
+   nsects 2
+    flags (none)
+Section
+  sectname __stubs
+   segname __TEXT
+      addr 0x0000000100003fde
+      size 0x0000000000000006
+    offset 16350
+     align 2^1 (2)
+    reloff 0
+    nreloc 0
+      type S_SYMBOL_STUBS
+attributes PURE_INSTRUCTIONS SOME_INSTRUCTIONS
+ reserved1 0 (index into indirect symbol table)
+ reserved2 6 (size of stubs)
+Section
+  sectname __stub_helper
+   segname __TEXT
+      addr 0x0000000100003fe4
+      size 0x000000000000001a
+    offset 16356
+     align 2^2 (4)
+    reloff 0
+    nreloc 0
+      type S_REGULAR
+attributes PURE_INSTRUCTIONS SOME_INSTRUCTIONS
+ reserved1 0
+ reserved2 0
+Load command 2
+      cmd LC_SEGMENT_64
+  cmdsize 472
+  segname __DATA
+   vmaddr 0x0000000100004000
+   vmsize 0x0000000000004000
+  fileoff 16384
+ filesize 16384
+  maxprot rw-
+ initprot rw-
+   nsects 5
+    flags (none)
+Section
+  sectname __nl_symbol_ptr
+   segname __DATA
+      addr 0x0000000100004000
+      size 0x0000000000000008
+    offset 16384
+     align 2^3 (8)
+    reloff 0
+    nreloc 0
+      type S_NON_LAZY_SYMBOL_POINTERS
+attributes (none)
+ reserved1 1 (index into indirect symbol table)
+ reserved2 0
+Section
+  sectname __got
+   segname __DATA
+      addr 0x0000000100004008
+      size 0x0000000000000008
+    offset 16392
+     align 2^3 (8)
+    reloff 0
+    nreloc 0
+      type S_NON_LAZY_SYMBOL_POINTERS
+attributes (none)
+ reserved1 2 (index into indirect symbol table)
+ reserved2 0
+Section
+  sectname __la_symbol_ptr
+   segname __DATA
+      addr 0x0000000100004010
+      size 0x0000000000000008
+    offset 16400
+     align 2^3 (8)
+    reloff 0
+    nreloc 0
+      type S_LAZY_SYMBOL_POINTERS
+attributes (none)
+ reserved1 3 (index into indirect symbol table)
+ reserved2 0
+Section
+  sectname __objc_imageinfo
+   segname __DATA
+      addr 0x0000000100004018
+      size 0x0000000000000008
+    offset 16408
+     align 2^2 (4)
+    reloff 0
+    nreloc 0
+      type S_REGULAR
+attributes (none)
+ reserved1 0
+ reserved2 0
+Section
+  sectname __watchkit
+   segname __DATA
+      addr 0x0000000100004020
+      size 0x0000000000000000
+    offset 16416
+     align 2^0 (1)
+    reloff 0
+    nreloc 0
+      type S_REGULAR
+attributes (none)
+ reserved1 0
+ reserved2 0
+Load command 3
+      cmd LC_SEGMENT_64
+  cmdsize 72
+  segname __LINKEDIT
+   vmaddr 0x0000000100008000
+   vmsize 0x0000000000008000
+  fileoff 32768
+ filesize 19200
+  maxprot r--
+ initprot r--
+   nsects 0
+    flags (none)
+Load command 4
+            cmd LC_DYLD_INFO_ONLY
+        cmdsize 48
+     rebase_off 32768
+    rebase_size 8
+       bind_off 32776
+      bind_size 24
+  weak_bind_off 0
+ weak_bind_size 0
+  lazy_bind_off 32800
+ lazy_bind_size 32
+     export_off 32832
+    export_size 64
+Load command 5
+     cmd LC_SYMTAB
+ cmdsize 24
+  symoff 32904
+   nsyms 4
+  stroff 32984
+ strsize 88
+Load command 6
+            cmd LC_DYSYMTAB
+        cmdsize 80
+      ilocalsym 0
+      nlocalsym 0
+     iextdefsym 0
+     nextdefsym 2
+      iundefsym 2
+      nundefsym 2
+         tocoff 0
+           ntoc 0
+      modtaboff 0
+        nmodtab 0
+   extrefsymoff 0
+    nextrefsyms 0
+ indirectsymoff 32968
+  nindirectsyms 4
+      extreloff 0
+        nextrel 0
+      locreloff 0
+        nlocrel 0
+Load command 7
+          cmd LC_LOAD_DYLINKER
+      cmdsize 32
+         name /usr/lib/dyld (offset 12)
+Load command 8
+     cmd LC_UUID
+ cmdsize 24
+    uuid 75FE51E8-7905-3AB4-8C76-7ACE39AF3F34
+Load command 9
+      cmd LC_VERSION_MIN_WATCHOS
+  cmdsize 16
+  version 2.0
+      sdk 8.3
+Load command 10
+      cmd LC_SOURCE_VERSION
+  cmdsize 16
+  version 1308.2.2
+Load command 11
+       cmd LC_MAIN
+   cmdsize 24
+  entryoff 16350
+ stacksize 0
+Load command 12
+          cmd LC_LOAD_DYLIB
+      cmdsize 104
+         name /System/Library/PrivateFrameworks/SockPuppetGizmo.framework/SockPuppetGizmo (offset 24)
+   time stamp 2 Thu Jan  1 09:00:02 1970
+      current version 1.0.0
+compatibility version 1.0.0
+Load command 13
+          cmd LC_LOAD_DYLIB
+      cmdsize 80
+         name /System/Library/Frameworks/UIKit.framework/UIKit (offset 24)
+   time stamp 2 Thu Jan  1 09:00:02 1970
+      current version 5204.0.0
+compatibility version 1.0.0
+Load command 14
+          cmd LC_LOAD_DYLIB
+      cmdsize 88
+         name /System/Library/Frameworks/Foundation.framework/Foundation (offset 24)
+   time stamp 2 Thu Jan  1 09:00:02 1970
+      current version 1856.105.0
+compatibility version 300.0.0
+Load command 15
+          cmd LC_LOAD_DYLIB
+      cmdsize 56
+         name /usr/lib/libobjc.A.dylib (offset 24)
+   time stamp 2 Thu Jan  1 09:00:02 1970
+      current version 228.0.0
+compatibility version 1.0.0
+Load command 16
+          cmd LC_LOAD_DYLIB
+      cmdsize 56
+         name /usr/lib/libSystem.B.dylib (offset 24)
+   time stamp 2 Thu Jan  1 09:00:02 1970
+      current version 1311.0.0
+compatibility version 1.0.0
+Load command 17
+      cmd LC_FUNCTION_STARTS
+  cmdsize 16
+  dataoff 32896
+ datasize 8
+Load command 18
+      cmd LC_DATA_IN_CODE
+  cmdsize 16
+  dataoff 32904
+ datasize 0
+Load command 19
+      cmd LC_CODE_SIGNATURE
+  cmdsize 16
+  dataoff 33072
+ datasize 18896

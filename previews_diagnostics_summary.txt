@@ -1,0 +1,181 @@
+== DATE:
+
+    Saturday, 8 January 2022 at 1:00:20 AM Korean Standard Time
+    
+    2022-01-07T16:00:20Z
+
+
+
+== PREVIEW UPDATE ERROR:
+
+    MessageSendFailure: Message send failure for update
+    
+    ==================================
+    
+    |  RemoteHumanReadableError
+    |  
+    |  LoadingError: failed to load library at path "/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Intermediates.noindex/WatchOSapp.build/Debug-watchsimulator/WatchOSapp WatchKit Extension.build/Objects-normal/x86_64/ContentView.1.preview-thunk.dylib": Optional(dlopen(/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Intermediates.noindex/WatchOSapp.build/Debug-watchsimulator/WatchOSapp WatchKit Extension.build/Objects-normal/x86_64/ContentView.1.preview-thunk.dylib, 0x0002): tried: '/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-watchsimulator/ContentView.1.preview-thunk.dylib' (no such file), '/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-iphonesimulator/ContentView.1.preview-thunk.dylib' (no such file), '/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Intermediates.noindex/WatchOSapp.build/Debug-watchsimulator/WatchOSapp WatchKit Extension.build/Objects-normal/x86_64/ContentView.1.preview-thunk.dylib' (no such file), '/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Intermediates.noindex/WatchOSapp.build/Debug-watchsimulator/WatchOSapp WatchKit Extension.build/Objects-normal/x86_64/ContentView.1.preview-thunk.dylib' (mach-o file, but is an incompatible architecture (have 'x86_64', need 'arm64')), '/usr/lib/ContentView.1.preview-thunk.dylib' (no such file))
+
+
+
+== VERSION INFO:
+
+    Tools: 13C100
+    OS:    21C52
+    PID:   43929
+    Model: MacBook Pro
+    Arch:  x86_64
+
+
+
+== ENVIRONMENT:
+
+    openFiles = [
+        /Users/dohyungjoo/Library/Mobile Documents/com~apple~CloudDocs/AppleDevelopment/WatchOSapp/WatchOSapp WatchKit Extension/ContentView.swift
+    ]
+    wantsNewBuildSystem = true
+    newBuildSystemAvailable = true
+    activeScheme = WatchOSapp WatchKit App
+    activeRunDestination = iPhone 13 Pro Max variant iphonesimulator x86_64
+    workspaceArena = [x]
+    buildArena = [x]
+    buildableEntries = [
+        WatchOSapp WatchKit Extension.appex
+    ]
+
+
+
+== SELECTED RUN DESTINATION:
+
+    name = iPhone 13 Pro Max
+    eligible = true
+    sdk = Optional(<DVTSDK:0x7fa2c00ae460:'iphonesimulator15.2':Simulator - iOS 15.2:<DVTFilePath:0x7fa2c00adc70:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.2.sdk'>>)
+    variant = Optional("iphonesimulator")
+    device = Optional(<DVTiPhoneSimulator: 0x7fa28b0b4fd0> {
+    		SimDevice: iPhone 13 Pro Max (6E4EC4A0-3352-47DD-B6C6-A164EF7A917A, iOS 15.2, Shutdown)
+    })
+
+
+
+== SELECTED RUN DESTINATION:
+
+    Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 13 Pro Max | Apple Watch Series 6 - 44mm
+    
+    Destination Preferences {
+        platform: iphonesimulator
+        platformSpecifier: iphonesimulator
+        deviceName: iPhone 13 Pro Max
+        deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.iPhone-13-Pro-Max
+        deviceModel: iPhone 13 Pro Max
+        deviceIdentifier: 6E4EC4A0-3352-47DD-B6C6-A164EF7A917A
+        deviceFamily: (Device Family: iPhone)
+        sdkVariant: iphonesimulator
+        architecture: x86_64
+        sdkSpecifier: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.2.sdk
+        sdkVersion: 15.2
+        runtimeVersion: 15.2
+    }
+    
+    Proxy:
+    Destination Preferences {
+        platform: watchsimulator
+        platformSpecifier: watchsimulator
+        deviceName: Apple Watch Series 6 - 44mm
+        deviceSpecifier: 0D25C849-4242-4F56-996F-7D73B8762F69
+        deviceModel: Apple Watch Series 6 - 44mm
+        architecture: x86_64
+        runtimeVersion: 8.3
+    }
+
+
+
+== SESSION GROUP 8748:
+
+    workspace identifier: <IDEWorkspace:0x7fa29a0c2020 path:'/Users/dohyungjoo/Library/Mobile Documents/com~apple~CloudDocs/AppleDevelopment/WatchOSapp/WatchOSapp.xcodeproj/project.xcworkspace'>
+    providers: [
+        ContentView_Previews /Users/dohyungjoo/Library/Mobile Documents/com~apple~CloudDocs/AppleDevelopment/WatchOSapp/WatchOSapp WatchKit Extension/ContentView.swift
+    ]
+    translation units: [
+        /Users/dohyungjoo/Library/Mobile Documents/com~apple~CloudDocs/AppleDevelopment/WatchOSapp/WatchOSapp WatchKit Extension/ContentView.swift
+    ]
+    attributes: PreviewSettingsRegistry(defaultSettings: PreviewsPipeline.PreviewSettings(isInteractive: false, mirroredDeviceLocations: Set([])), appPreviewDestinationRequirements: PreviewsPipeline.DestinationRequirements(rule: PreviewsPipeline.DestinationRequirements.(unknown context at $1853662e4).Rule.none), isAppPreviewEnabled: false, suppressAppPreviewWhenPreviewProvidersArePresent: false, storage: [:])
+    session: 8749
+    request sessions: [
+        Content View Previews | ContentView_Previews: not completed
+    ]
+
+
+
+== UPDATE SESSION 8749:
+
+    Start Date: Saturday, 8 January 2022 at 12:59:59 AM Korean Standard Time
+    Preview Provider {
+        Simulator {
+            platform: watchsimulator
+            device: 721E8095-E7F7-4F47-A914-DF5676EFACAB Apple Watch Series 6 - 44mm
+            buildNumber: 19S51
+            runtimePath: /Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/watchOS.simruntime
+        }
+        pid: 93054
+        host bundle: 
+        Joodohyung.WatchOSapp.watchkitapp {
+            url: file:///Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp%20WatchKit%20App/Products/Debug-watchsimulator/WatchOSapp%20WatchKit%20App.app
+            version: 8755
+            signingInformation: 
+            Code Signing {
+                identifier: Joodohyung.WatchOSapp.watchkitapp
+                hasGetTaskAllow: false
+                isSandboxed: false
+            }
+        }
+        host attributes: [
+            AppExtensionIdentifierPreviewAttributeKey: Optional(PreviewsPlatforms.AppExtension(bundleIdentifier: "Joodohyung.WatchOSapp.watchkitapp.watchkitextension", displayName: "WatchOSapp WatchKit Extension", kind: PreviewsPlatforms.AppExtension.Kind.watchKit, signingInformation: Optional(Code Signing {
+                identifier: Joodohyung.WatchOSapp.watchkitapp.watchkitextension
+                hasGetTaskAllow: false
+                isSandboxed: false
+            }))),
+            LaunchConfigArgumentsPreviewAttributesKey: [],
+            LaunchConfigEnvironmentVariablesPreviewAttributesKey: ["DYLD_LIBRARY_PATH": "/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-watchsimulator:/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-iphonesimulator", "__XCODE_BUILT_PRODUCTS_DIR_PATHS": "/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-watchsimulator:/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-iphonesimulator", "__XPC_DYLD_FRAMEWORK_PATH": "/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-watchsimulator:/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-iphonesimulator", "OS_ACTIVITY_DT_MODE": "YES", "DYLD_FRAMEWORK_PATH": "/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-watchsimulator:/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-iphonesimulator", "__XPC_DYLD_LIBRARY_PATH": "/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-watchsimulator:/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-iphonesimulator", "SQLITE_ENABLE_THREAD_ASSERTIONS": "1"],
+        ]
+    }
+    Build Graph {
+        target app WatchOSapp.app (#1)
+           target watchKitApp WatchOSapp WatchKit App.app (#2)
+              target watchKitExtension WatchOSapp WatchKit Extension.appex (#3)
+                 translationUnit ContentView.swift (#4)
+                 Preview Provider Content View Previews Content View Previews (#5)
+    }
+    Update Plan {
+        watchOS [x86_64 iphonesimulator15.2 iphonesimulator w/ proxy] (iPhone 13 Pro Max, 6E4EC4A0-3352-47DD-B6C6-A164EF7A917A-iphonesimulator15.2-x86_64-iphonesimulator), [], thinning disabled) {
+            Destination: Apple Watch Series 6 - 44mm 0D25C849-4242-4F56-996F-7D73B8762F69 | default device for watchsimulator [
+                Run Destination Properties {
+                    platform: watchsimulator
+                    architecture: x86_64
+                    sdk: 
+                    SDK {
+                        path: /Applications/Xcode.app/Contents/Developer/Platforms/WatchSimulator.platform/Developer/SDKs/WatchSimulator8.3.sdk
+                        version: 8.3
+                    }
+                    runtimeVersion: 8.3
+                    runtimeBuildNumber: 19S51
+                    deviceIdentifier: 0D25C849-4242-4F56-996F-7D73B8762F69
+                    deviceModel: Apple Watch Series 6 - 44mm
+                    deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-6-44mm
+                    deviceName: Apple Watch Series 6 - 44mm
+                }
+                WatchOSapp_WatchKit_Extension watchKitExtension - Previews {
+                    execution points [
+                        provider WatchOSapp_WatchKit_Extension.ContentView_Previews
+                    ]
+                    translation units [
+                        ContentView.swift (in WatchOSapp WatchKit Extension.appex)
+                    ]
+                    modules [
+                        WatchOSapp WatchKit Extension.appex
+                    ]
+                }
+            ]
+        }
+    }
+
+

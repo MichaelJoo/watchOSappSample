@@ -1,0 +1,23 @@
+Executable=/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Intermediates.noindex/WatchOSapp.build/Debug-watchsimulator/WatchOSapp WatchKit Extension.build/Objects-normal/x86_64/ContentView.5.preview-thunk.dylib
+Identifier=ContentView.5.preview-thunk
+Format=Mach-O thin (x86_64)
+CodeDirectory v=20400 size=756 flags=0x2(adhoc) hashes=18+2 location=embedded
+VersionPlatform=9
+VersionMin=525056
+VersionSDK=525056
+Hash type=sha256 size=32
+CandidateCDHash sha256=7382c74758f28dfc077ccd90707883c8545c9cf1
+CandidateCDHashFull sha256=7382c74758f28dfc077ccd90707883c8545c9cf1122851b9e953ba79d85553d7
+Hash choices=sha256
+CMSDigest=7382c74758f28dfc077ccd90707883c8545c9cf1122851b9e953ba79d85553d7
+CMSDigestType=2
+Executable Segment base=0
+Executable Segment limit=16384
+Executable Segment flags=0x0
+Page size=4096
+CDHash=7382c74758f28dfc077ccd90707883c8545c9cf1
+Signature=adhoc
+Info.plist=not bound
+TeamIdentifier=not set
+Sealed Resources=none
+Internal requirements count=0 size=12

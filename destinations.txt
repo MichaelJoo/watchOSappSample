@@ -1,0 +1,286 @@
+ [
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: iphonesimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.2.sdk
+                version: 15.2
+            }
+            sdkVariant: iphonesimulator
+            runtimeVersion: 15.2
+            runtimeBuildNumber: 19C51
+            deviceIdentifier: F9076395-4B28-449D-8A81-06A9B293E75C
+            deviceModel: iPhone 13
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.iPhone-13
+            deviceName: iPhone 13
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 13 | Apple Watch Series 7 - 45mm
+        Proxy: false
+    ]
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: iphonesimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.2.sdk
+                version: 15.2
+            }
+            sdkVariant: iphonesimulator
+            runtimeVersion: 15.2
+            runtimeBuildNumber: 19C51
+            deviceIdentifier: E22B2682-8832-42B0-9580-9B40133A72D5
+            deviceModel: iPhone 13 mini
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.iPhone-13-mini
+            deviceName: iPhone 13 mini
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 13 mini | Apple Watch Series 7 - 41mm
+        Proxy: false
+    ]
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: iphonesimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.2.sdk
+                version: 15.2
+            }
+            sdkVariant: iphonesimulator
+            runtimeVersion: 15.2
+            runtimeBuildNumber: 19C51
+            deviceIdentifier: 6E4EC4A0-3352-47DD-B6C6-A164EF7A917A
+            deviceModel: iPhone 13 Pro Max
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.iPhone-13-Pro-Max
+            deviceName: iPhone 13 Pro Max
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 13 Pro Max | Apple Watch Series 6 - 44mm
+        Proxy: false
+    ]
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: iphonesimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.2.sdk
+                version: 15.2
+            }
+            sdkVariant: iphonesimulator
+            runtimeVersion: 15.2
+            runtimeBuildNumber: 19C51
+            deviceIdentifier: E6B5BF8F-46BD-4448-8B63-A44D5A446724
+            deviceModel: iPhone 13 Pro
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.iPhone-13-Pro
+            deviceName: iPhone 13 Pro
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 13 Pro | Apple Watch Series 5 - 44mm
+        Proxy: false
+    ]
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: iphonesimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.2.sdk
+                version: 15.2
+            }
+            sdkVariant: iphonesimulator
+            runtimeVersion: 15.2
+            runtimeBuildNumber: 19C51
+            deviceIdentifier: A55ED26C-39B6-4CDE-B871-39AFE8B8D9A8
+            deviceModel: iPhone 12 Pro Max
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.iPhone-12-Pro-Max
+            deviceName: iPhone 12 Pro Max
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 12 Pro Max | Apple Watch Series 5 - 40mm
+        Proxy: false
+    ]
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: iphonesimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.2.sdk
+                version: 15.2
+            }
+            sdkVariant: iphonesimulator
+            runtimeVersion: 13.7
+            runtimeBuildNumber: 17H22
+            deviceIdentifier: 573D9C29-AE42-49E7-8B6C-ED25E0B76B91
+            deviceModel: iPhone 11 Pro
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.iPhone-11-Pro
+            deviceName: iPhone 11 Pro iOS 13.7
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 11 Pro | Apple Watch Series 6 - 40mm
+        Proxy: false
+    ]
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: watchsimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/WatchSimulator.platform/Developer/SDKs/WatchSimulator8.3.sdk
+                version: 8.3
+            }
+            runtimeVersion: 8.3
+            runtimeBuildNumber: 19S51
+            deviceIdentifier: B024B8ED-4C3A-4E3F-8F7A-E2B5C2567118
+            deviceModel: Apple Watch Series 7 - 45mm
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-7-45mm
+            deviceName: Apple Watch Series 7 - 45mm
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 13 | Apple Watch Series 7 - 45mm
+        Proxy: true
+    ]
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: watchsimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/WatchSimulator.platform/Developer/SDKs/WatchSimulator8.3.sdk
+                version: 8.3
+            }
+            runtimeVersion: 8.3
+            runtimeBuildNumber: 19S51
+            deviceIdentifier: 67105F39-EDA5-4565-8BFA-0D6166AEFD5F
+            deviceModel: Apple Watch Series 7 - 41mm
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-7-41mm
+            deviceName: Apple Watch Series 7 - 41mm
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 13 mini | Apple Watch Series 7 - 41mm
+        Proxy: true
+    ]
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: watchsimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/WatchSimulator.platform/Developer/SDKs/WatchSimulator8.3.sdk
+                version: 8.3
+            }
+            runtimeVersion: 8.3
+            runtimeBuildNumber: 19S51
+            deviceIdentifier: 0D25C849-4242-4F56-996F-7D73B8762F69
+            deviceModel: Apple Watch Series 6 - 44mm
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-6-44mm
+            deviceName: Apple Watch Series 6 - 44mm
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 13 Pro Max | Apple Watch Series 6 - 44mm
+        Proxy: true
+    ]
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: watchsimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/WatchSimulator.platform/Developer/SDKs/WatchSimulator8.3.sdk
+                version: 8.3
+            }
+            runtimeVersion: 8.3
+            runtimeBuildNumber: 19S51
+            deviceIdentifier: B18E9020-9E0C-4BAE-AB4D-E5F9423B0DBA
+            deviceModel: Apple Watch Series 6 - 40mm
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-6-40mm
+            deviceName: Apple Watch 6
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 11 Pro | Apple Watch Series 6 - 40mm
+        Proxy: true
+    ]
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: watchsimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/WatchSimulator.platform/Developer/SDKs/WatchSimulator8.3.sdk
+                version: 8.3
+            }
+            runtimeVersion: 8.3
+            runtimeBuildNumber: 19S51
+            deviceIdentifier: 767E82E4-1674-4901-8C9F-93278EEFF595
+            deviceModel: Apple Watch Series 5 - 44mm
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-5-44mm
+            deviceName: Apple Watch Series 5 - 44mm
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 13 Pro | Apple Watch Series 5 - 44mm
+        Proxy: true
+    ]
+    SimulatorPreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: watchsimulator
+            architecture: x86_64
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/WatchSimulator.platform/Developer/SDKs/WatchSimulator8.3.sdk
+                version: 8.3
+            }
+            runtimeVersion: 8.3
+            runtimeBuildNumber: 19S51
+            deviceIdentifier: 6BF33D28-FA5A-4188-85B5-DD082CA0DCEF
+            deviceModel: Apple Watch Series 5 - 40mm
+            deviceSpecifier: com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-5-40mm
+            deviceName: Apple Watch Series 5 - 40mm
+        }
+        Run Destination: Simulator - iOS 15.2 | iphonesimulator | x86_64 | iPhone 12 Pro Max | Apple Watch Series 5 - 40mm
+        Proxy: true
+    ]
+    DevicePreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: watchos
+            architecture: arm64_32
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/SDKs/WatchOS8.3.sdk
+                version: 8.3
+            }
+            runtimeVersion: 8.3
+            runtimeBuildNumber: 19S55
+            deviceModel: Apple Watch Series 6
+            deviceName: Do Hyung’s Apple Watch
+        }
+        Run Destination: iOS 15.2 | iphoneos | arm64e | iPhone 12 Pro | Apple Watch Series 6
+        Proxy: true
+    ]
+    DevicePreviewDestinationRecipe [
+        Properties: 
+        Run Destination Properties {
+            platform: iphoneos
+            architecture: arm64e
+            sdk: 
+            SDK {
+                path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk
+                version: 15.2
+            }
+            sdkVariant: iphoneos
+            runtimeVersion: 15.1.1
+            runtimeBuildNumber: 19B81
+            deviceIdentifier: dvtdevice-iphone:00008101-001925111EC0001E
+            deviceModel: iPhone 12 Pro
+            deviceName: Do Hyung's iPhone
+        }
+        Run Destination: iOS 15.2 | iphoneos | arm64e | iPhone 12 Pro | Apple Watch Series 6
+        Proxy: false
+    ]
+]
