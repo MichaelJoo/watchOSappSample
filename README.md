@@ -1,10 +1,11 @@
 # watchOSappSample
 sample project for troubleshooting - JooDoHyung
 
-1. Go to "WatchOSappWatchKitExtension"
-2. Go to "ContentView"
-3. Resume SwiftUI preview
-4. Click on 'Diagnostic' button to review below error message
+1. Download Xcode project in GitHub folder and open the file
+2. Go to "WatchOSappWatchKitExtension"
+3. Go to "ContentView"
+4. Resume SwiftUI preview
+5. Click on 'Diagnostic' button to review below error message
 
 
 
