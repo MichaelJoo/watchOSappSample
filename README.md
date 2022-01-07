@@ -17,3 +17,24 @@ MessageSendFailure: Message send failure for update
 |  RemoteHumanReadableError
 |  
 |  LoadingError: failed to load library at path "/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Intermediates.noindex/WatchOSapp.build/Debug-watchsimulator/WatchOSapp WatchKit Extension.build/Objects-normal/x86_64/ContentView.1.preview-thunk.dylib": Optional(dlopen(/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Intermediates.noindex/WatchOSapp.build/Debug-watchsimulator/WatchOSapp WatchKit Extension.build/Objects-normal/x86_64/ContentView.1.preview-thunk.dylib, 0x0002): tried: '/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-watchsimulator/ContentView.1.preview-thunk.dylib' (no such file), '/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Products/Debug-iphonesimulator/ContentView.1.preview-thunk.dylib' (no such file), '/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Intermediates.noindex/WatchOSapp.build/Debug-watchsimulator/WatchOSapp WatchKit Extension.build/Objects-normal/x86_64/ContentView.1.preview-thunk.dylib' (no such file), '/Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Intermediates.noindex/WatchOSapp.build/Debug-watchsimulator/WatchOSapp WatchKit Extension.build/Objects-normal/x86_64/ContentView.1.preview-thunk.dylib' (mach-o file, but is an incompatible architecture (have 'x86_64', need 'arm64')), '/usr/lib/ContentView.1.preview-thunk.dylib' (no such file))
+
+
+Comment 1 - Unfortunately, this issue seem to occur within my machine/M1 Macbook pro as other developr could see the SwiftUI preview. Would appreciate Apple's help on this issue. 
+
+Comment 2 - I have read the file "ContentView.1.preview-thunk.dylib" that was repeatedly mentioned in the error and opened it up in Unix executable code. It stated below code. 
+
+In particular, there was a error message within that file saying "zsh: exec format error:"
+
+***start of  of unix code***
+Last login: Sat Jan  8 02:32:03 on ttys001
+dohyungjoo@Dos-MacBook-Pro ~ % /Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp\ WatchKit\ App/Intermediates.noindex/WatchOSapp.build/Debug-watchsimulator/WatchOSapp\ WatchKit\ Extension.build/Objects-normal/x86_64/ContentView.1.preview-thunk.dylib ; exit;
+
+zsh: exec format error: /Users/dohyungjoo/Library/Developer/Xcode/DerivedData/WatchOSapp-eqenwaxotupvszeukgelwsktiuqf/Build/Intermediates.noindex/Previews/WatchOSapp WatchKit App/Intermediates.noindex/WatchOSapp.build/Debug-watchsimulator/WatchOSapp WatchKit Extension.build/Objects-normal/x86_64/ContentView.1.preview-thunk.dylib
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+[Process completed]
+***end of unix code***
