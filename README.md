@@ -1,6 +1,10 @@
 # watchOSappSample
 sample project for troubleshooting - JooDoHyung
 
+1. Go to "WatchOSappWatchKitExtension"
+2. Go to "ContentView"
+3. Resume SwiftUI preview
+4. Click on 'Diagnostic' button to review below error message
 
 
 
