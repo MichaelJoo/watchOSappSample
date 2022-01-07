@@ -1,7 +1,7 @@
 # watchOSappSample
 sample project for troubleshooting - JooDoHyung
 
-1. Download Xcode project in GitHub folder and open the file
+1. Download Xcode project in GitHub folder "WatchOSapp" and open the file
 2. Go to "WatchOSappWatchKitExtension"
 3. Go to "ContentView"
 4. Resume SwiftUI preview
