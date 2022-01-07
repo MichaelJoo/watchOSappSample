@@ -5,7 +5,7 @@ sample project for troubleshooting - JooDoHyung
 2. Go to "WatchOSappWatchKitExtension"
 3. Go to "ContentView"
 4. Resume SwiftUI preview
-5. Click on 'Diagnostic' button to review below error message
+5. Review Preview Diagnostic Report contents, if necessary
 
 ![Screenshot 2022-01-08 at 1 08 23 AM](https://user-images.githubusercontent.com/34578674/148571904-98d5b54c-4d46-4469-a0cb-9453c9572baa.png)
 
