@@ -7,6 +7,7 @@ sample project for troubleshooting - JooDoHyung
 4. Resume SwiftUI preview
 5. Click on 'Diagnostic' button to review below error message
 
+![Screenshot 2022-01-08 at 1 06 45 AM](https://user-images.githubusercontent.com/34578674/148571766-9fbdd78f-fc0c-4116-a4fd-21d537a13c4c.png)
 
 
 MessageSendFailure: Message send failure for update
