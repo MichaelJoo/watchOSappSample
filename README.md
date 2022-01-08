@@ -46,3 +46,9 @@ Saving session...
 
 [Process completed]
 ***end of unix code***
+
+Solution: Found a temporary workaround by "Turning off the Automatically Refresh Canvas" option in Xcode >> Editor
+
+Not sure why it would work that way, but turning it off and clicking on play button in the device allowed update of the preview and display. 
+
+
